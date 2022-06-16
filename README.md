@@ -23,7 +23,7 @@ At first sight it seems to be easy, but it took my day.
 
 ### Links
 
-- Solution URL: [click here](https://respected-lackadaisical-toast.glitch.me)
+- Solution URL: [click here]([https://respected-lackadaisical-toast.glitch.me](https://glitch.com/edit/#!/respected-lackadaisical-toast))
 - Live Site URL: [click here](https://respected-lackadaisical-toast.glitch.me)
 
 
