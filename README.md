@@ -23,7 +23,7 @@ At first sight it seems to be easy, but it took my day.
 
 ### Links
 
-- Solution URL: [click here](https://glitch.com/edit/#!/qr-code-nick))
+- Solution URL: [click here](https://glitch.com/edit/#!/qr-code-nick)
 - Live Site URL: [click here](https://qr-code-nick.glitch.me)
 
 
